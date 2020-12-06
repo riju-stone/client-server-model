@@ -9,4 +9,4 @@ In this article we are going to take a dive into the Client-Server model and hav
 - `Client`: When we talk the word Client, it mean to talk of a person or an organization using a particular service. Similarly in the digital world a Client is a computer (Host) i.e. capable of receiving information or using a particular service from the service providers (Servers).
 - `Servers`: Similarly, when we talk the word Servers, It mean a person or medium that serves something. Similarly in this digital world a Server is a remote computer which provides information (data) or access to particular services.
 
-<img src="https://www.researchgate.net/profile/Hector_Sanchez10/publication/248400544/figure/fig1/AS:298388512886784@1448152773313/Dynamic-client-server-architecture.png" align="center">
+<img src="https://community.rti.com/static/documentation/connext-dds/5.2.0/doc/manuals/connext_dds/html_files/RTI_ConnextDDS_CoreLibraries_GettingStarted/Content/Resources/Images/Intro_client_server.png">
